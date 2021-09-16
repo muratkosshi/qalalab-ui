@@ -26,7 +26,8 @@ const BlockEvents = (props) =>{
                                                           title={p.title}
                                                           description={p.description}
                                                           url = {p.url}
-                                                          id={p.id}/>})}
+                                                          id={p.id}
+                                                        data={p.data}/>})}
 
 
 
